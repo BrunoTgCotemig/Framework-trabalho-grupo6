@@ -1,4 +1,4 @@
-# Framework-trabalho-grupo6
+# Framework: trabalho - grupo6
 
 Curso:  Mobile - manha
 Classe: 3B1
