@@ -36,7 +36,7 @@ Participantes:
 
 - HTML = "MAIN/index.html"
 - css = "MAIN/css/style.css"
-- imagens = ""
+- imagens = "MAIN/assets/img"
 
 
 
