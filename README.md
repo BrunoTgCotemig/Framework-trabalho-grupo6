@@ -8,12 +8,19 @@ Grupo:  06
 Participantes:
 
 Matheus Augusto 
+
 Bruno Teles
+
 Lucas Abdalgne
+
 Marco Aurélio
+
 Matheus Santos
+
 Samuel Francis
+
 Petronio de Figueiredo
+
 Caio Alves
 
 
